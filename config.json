@@ -1,0 +1,27 @@
+{
+  "shopName": "Tri-Parkway Cleaners",
+  "tagline": "Family dry cleaner and tailor on Fort Hamilton Parkway",
+  "phone": "(718) 438-7380",
+  "address": "3115 Fort Hamilton Pkwy, Brooklyn, NY 11218",
+  "hours": "Mon–Fri 7 AM – 5 PM (Wed until 6:30 PM) · Sat 8 AM – 2 PM · Closed Sun",
+  "photoUrl": "hero.jpg",
+  "services": [
+    {
+      "name": "Dry cleaning",
+      "description": "Suits, dresses, and delicate items, including wedding gowns."
+    },
+    {
+      "name": "Laundry & press",
+      "description": "Wash, dry, and press, with drop-off and pickup."
+    },
+    {
+      "name": "Tailoring",
+      "description": "Zippers, hems, and alterations. Call or stop by for a quote."
+    }
+  ],
+  "email": "troupe.javelin-7w@icloud.com",
+  "demoId": "tri-parkway-cleaners-kensington",
+  "ownerName": "us",
+  "ownerPhone": "(908) 286-8650",
+  "ownerEmail": "troupe.javelin-7w@icloud.com"
+}
